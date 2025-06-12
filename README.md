@@ -1,15 +1,16 @@
 # Auto Betting Simulator (Python)
 
-🎰 Simulates an automated betting strategy using a Martingale system with win probability and risk control.
+🎰 A customizable betting simulation using the Martingale strategy. Set your own balance, bet size, profit target, and risk!
 
 ---
 
 ## ⚙️ Features
 
-- ✅ Uses Martingale strategy (double after loss)
-- ✅ Stop-loss after 13 consecutive losses
-- ✅ ₹10 profit target
-- ✅ Real-time profit tracking
-- ✅ Logs each bet with result, profit, and average profit per minute
+- ✅ User-defined initial balance
+- ✅ User-defined initial bet amount
+- ✅ Custom profit target
+- ✅ Adjustable max consecutive losses
+- ✅ Real-time logs of each bet
+- ✅ Profit-per-minute tracker
 
 ---
